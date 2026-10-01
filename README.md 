@@ -1,0 +1,26 @@
+MERN Polls App
+
+A real-time Polling Web Application built using the MERN Stack.
+
+About
+
+MERN Polls App allows users to create polls and vote on different options in real time.
+
+Features
+
+- Create Polls
+- Vote on Polls
+- Real-Time Polling
+- View Poll Results
+- Responsive User Interface
+
+Technologies Used
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+Author
+
+Adesh Singh
